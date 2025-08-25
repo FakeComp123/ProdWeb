@@ -1,4 +1,4 @@
-# Fake PHP Webapp - Secret Scanning Test
+# PHP Webapp
 
 This repository contains our **PHP web application**  
 All embedded secrets are **dummy/fake values** for testing only.

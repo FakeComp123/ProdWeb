@@ -1,0 +1,12 @@
+		{
+				DetectorType: detectorspb.DetectorType_AWS,
+				Verified:     true,
+				Redacted:     "AKIAZAVB57H55F3T4BKH",
+				ExtraData: map[string]string{
+					"resource_type":  "Access key",
+					"account":        "619888638459",
+					"arn":            "arn:aws:iam::619888638459:user/trufflehog-aws-detector-tester",
+					"rotation_guide": "https://howtorotate.com/docs/tutorials/aws/",
+					"user_id":        "AIDAZAVB57H5V3Q4ACRGM",
+				},
+			},

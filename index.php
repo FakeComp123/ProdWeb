@@ -66,7 +66,7 @@ function useless_math() {
 }
 
 // === Third fake secret (AWS) ===
-$awsSecretKey = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYFAKEKEY1234";
+$awsSecretKey = "AKIAYVP4CIPPERUVIFXG";
 
 print_banner();
 $users = generate_fake_users();
